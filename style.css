@@ -68,7 +68,7 @@
   /* top: 80 */
   /* padding-top: 00px; */
   padding-bottom: 100px;
-  top: 55%;
+  top: 60%;
   position: absolute;
   z-index: 1;
   left: 100px;
@@ -83,12 +83,12 @@
 }
 
 .myImg {
-  width: 350px !important;
+  width: 400px !important;
   border-radius: 2px;
 }
 
 .theImg {
-  width: 350px !important;
+  width: 400px !important;
   height: 175px !important;
   border-radius: 2px;
 
@@ -336,7 +336,7 @@ p {
 .theFirst1 {
   position: relative;
   height: 300px;
-  margin-top: 10px;
+  /* margin-top: 5px; */
 }
 
 /* .vex {
